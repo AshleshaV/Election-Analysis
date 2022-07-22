@@ -53,7 +53,7 @@ Python and Visual Studio Code were used to analyse the election results CSV file
     6. Denver had the largest voter turnout.
   
   Election audit results were seen in the image as follows:  
-  https://github.com/AshleshaV/Election-Analysis/blob/main/Resources/2022-07-21.png?raw=true
+https://github.com/AshleshaV/Election-Analysis/blob/main/Resources/election%20audit.png?raw=true
  
  
 
